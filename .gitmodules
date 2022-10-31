@@ -1,3 +1,6 @@
 [submodule "rsynth-audio"]
 	path = rsynth-audio
 	url = git@github.com:spoilaro/rsynth-audio.git
+[submodule "rsynth-ui"]
+	path = rsynth-ui
+	url = git@github.com:spoilaro/rsynth-ui.git
