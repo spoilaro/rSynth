@@ -1,0 +1,3 @@
+[submodule "rsynth-audio"]
+	path = rsynth-audio
+	url = git@github.com:spoilaro/rsynth-audio.git
